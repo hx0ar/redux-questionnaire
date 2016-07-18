@@ -8,3 +8,9 @@
 - ES6 / ES2015
 - React-boilerplate
 
+### To get it running
+
+ $ npm install
+ $ npm run start
+
+
